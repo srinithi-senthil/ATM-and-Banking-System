@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040428
+# Name:SRINITHI S
+# Date:17/11/2026
 
 
 # AIM:
@@ -29,7 +29,9 @@ To develop the ATM and Banking System using Star UML
 10.Provide a simple and intuitive user interface.
 
 
-# UML DIAGRAMS
+# UML DIAGRAM
+<img width="678" height="692" alt="image" src="https://github.com/user-attachments/assets/6c1c6f6b-e34b-4e80-8370-431774482d25" />
+
 
 # USE CASE DIAGRAM
 
@@ -67,6 +69,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="850" height="680" alt="image" src="https://github.com/user-attachments/assets/12bea0a5-db82-4369-adad-ac995d5a3129" />
+
 
 
 
@@ -75,6 +79,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="917" height="672" alt="image" src="https://github.com/user-attachments/assets/cb5ceca7-ae87-4d1b-bdc8-1b7277f97d77" />
+
 
 
 
@@ -87,6 +93,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="997" height="682" alt="image" src="https://github.com/user-attachments/assets/d918f3a4-fda3-4fe0-82f1-ae1829d9d3c9" />
 
 
 
@@ -107,6 +114,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="627" height="662" alt="image" src="https://github.com/user-attachments/assets/babb66aa-788c-4787-98ee-7100f474e1b6" />
 
 
 
@@ -128,6 +136,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1242" height="685" alt="image" src="https://github.com/user-attachments/assets/6763a29b-66f4-48d8-80bf-9b42b6da6712" />
 
 
 
